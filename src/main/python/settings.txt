@@ -1,0 +1,4 @@
+sheet_numbers = 1, 2, 1, 1
+sheet_names = Greases, Rotterdam, Italy, Singapore
+excel_names = Essenza Imported Pricelist Ongoing UPDATE File-Carcare.xlsx, Essenza Imported Pricelist Ongoing UPDATE File-Carcare.xlsx, Essenza ITALY Pricelist Ongoing UPDATE File 518 210319.xlsx, Essenza Singapore Pricelist Ongoing UPDATE Files.xlsx
+default folder = E:\OneDrive\University\Python\WinPricelist\PricelistData
